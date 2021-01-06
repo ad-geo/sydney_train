@@ -23,6 +23,9 @@ sydney_train_card_type                 # Folder
     - train_card_type.ipynb            # Jupyter notebook
 ```
 
+## Blog Post
+Blog post url (https://ad-geo.medium.com/what-can-opal-tap-on-tap-off-data-tell-us-173762b15c83)
+
 ## Data Source
 Transport for NSW Open Data Hub (https://opendata.transport.nsw.gov.au/dataset/opal-trips-train)
 
